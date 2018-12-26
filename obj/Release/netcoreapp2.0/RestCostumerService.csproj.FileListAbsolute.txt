@@ -1,0 +1,12 @@
+C:\Source\RestCostumerService\RestCostumerService\bin\Release\netcoreapp2.0\RestCostumerService.deps.json
+C:\Source\RestCostumerService\RestCostumerService\bin\Release\netcoreapp2.0\RestCostumerService.runtimeconfig.json
+C:\Source\RestCostumerService\RestCostumerService\bin\Release\netcoreapp2.0\RestCostumerService.runtimeconfig.dev.json
+C:\Source\RestCostumerService\RestCostumerService\bin\Release\netcoreapp2.0\RestCostumerService.dll
+C:\Source\RestCostumerService\RestCostumerService\bin\Release\netcoreapp2.0\RestCostumerService.pdb
+C:\Source\RestCostumerService\RestCostumerService\obj\Release\netcoreapp2.0\RestCostumerService.csprojAssemblyReference.cache
+C:\Source\RestCostumerService\RestCostumerService\obj\Release\netcoreapp2.0\RestCostumerService.csproj.CoreCompileInputs.cache
+C:\Source\RestCostumerService\RestCostumerService\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Source\RestCostumerService\RestCostumerService\obj\Release\netcoreapp2.0\RestCostumerService.AssemblyInfoInputs.cache
+C:\Source\RestCostumerService\RestCostumerService\obj\Release\netcoreapp2.0\RestCostumerService.AssemblyInfo.cs
+C:\Source\RestCostumerService\RestCostumerService\obj\Release\netcoreapp2.0\RestCostumerService.dll
+C:\Source\RestCostumerService\RestCostumerService\obj\Release\netcoreapp2.0\RestCostumerService.pdb
